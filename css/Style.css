@@ -51,11 +51,16 @@
 }
 
 .conteudo{
-    position: relative;
     z-index: 1;
+    margin-left: 20px;
 }
 
-
+.conteudo h1{
+    font-size: 90px;
+}
+h3{
+    font-size: 15px;
+}
 
 
 
